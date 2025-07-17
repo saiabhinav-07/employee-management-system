@@ -1,3 +1,52 @@
+Employee Management System
+A fullstack Employee Management System built with Spring Boot (Java), MySQL, and React. The project allows creation, modification, searching, and deletion of employee records with a modern, responsive interface and a secure RESTful backend.
+
+Table of Contents
+Features
+
+Screenshots
+
+Tech Stack
+
+Folder Structure
+
+Getting Started
+
+Usage
+
+API Endpoints
+
+Troubleshooting
+
+License
+
+Author
+
+Features
+Add, edit, search, and delete employees
+
+Paginated employee list
+
+Modern React frontend (Bootstrap styled)
+
+RESTful backend API with Spring Boot
+
+MySQL database integration
+
+Secured API with HTTP Basic Auth
+
+Responsive design
+
+
+
+
+
+
+
+
+
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
